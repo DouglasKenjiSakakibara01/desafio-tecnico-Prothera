@@ -19,9 +19,6 @@ import lombok.Setter;
 @Entity
 @NoArgsConstructor
 public class Funcionario extends Pessoa{
-    //@Id
-    //@GeneratedValue(strategy = GenerationType.IDENTITY)
-    //private Long id_funcionario;
     private BigDecimal salario;
     private String funcao;
     public Funcionario(String nome, LocalDate dataNascimento, BigDecimal salario, String funcao) {
