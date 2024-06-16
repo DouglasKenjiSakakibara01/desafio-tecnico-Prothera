@@ -47,4 +47,5 @@ por meio do Postman.
 - Foi utilizado o banco de dados H2. Por ser um banco dados armazenado em memória, se encaixa muito bem para as operações
   da aplicação.
 - Foi utilizado a estratégia de herança JOINED no JPA para mapear a relação de hierarquia entre as entidades Pessoa e Funcionario.
+- As ações específicadas são realizadas por meio de requisições via Postman.
   
