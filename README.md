@@ -43,7 +43,7 @@ por meio do Postman.
 - Postman
 - Maven
 
-## Obersavações em relação a aplicação
+## Observações em relação a aplicação
 - Foi utilizado o banco de dados H2. Por ser um banco dados armazenado em memória, se encaixa muito bem para as operações
   da aplicação.
 - Foi utilizado a estratégia de herança JOINED no JPA para mapear a relação de hierarquia entre as entidades Pessoa e Funcionario.
